@@ -1,6 +1,6 @@
 {
   "name": "npm-please",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM please",
   "main": "index.js",
   "scripts": {
