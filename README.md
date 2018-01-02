@@ -12,7 +12,12 @@ $ please-install-now
 
 To identify why a `package` was installed:
 ```bash
-$ please-why
+$ please-why package
+```
+
+To identify when a `pakcage` was published:
+```bash
+$ please-when package
 ```
 
 > If it was hard to write it should be hard to read
