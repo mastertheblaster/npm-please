@@ -8,6 +8,7 @@
   },
   "bin": {
     "please-install": "./bin/install.sh",
+    "please-install-now": "/bin/install-now.sh",
     "please-why": "./bin/why.sh"
   },
   "repository": {

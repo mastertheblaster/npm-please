@@ -5,7 +5,14 @@ To reinstall npm packages in a current project:
 $ please-install
 ```
 
+To reinstall npm packages with cache cleaning:
+```bash
+$ please-install-now
+```
+
 To identify why a `package` was installed:
 ```bash
-please-why
+$ please-why
 ```
+
+> If it was hard to write it should be hard to read
