@@ -1,9 +1,8 @@
 {
   "name": "npm-please",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "NPM please",
-  "scripts": {
-  },
+  "scripts": {},
   "bin": {
     "please-install": "./bin/install.sh",
     "please-ports": "./bin/ports.sh",
