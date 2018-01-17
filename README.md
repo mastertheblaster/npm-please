@@ -1,23 +1,11 @@
 # NPM please
 
-To reinstall npm packages in a current project:
-```bash
-$ please-install
-```
+Helper shell commands for node:
 
-To reinstall npm packages with cache cleaning:
 ```bash
-$ please-install-now
-```
-
-To identify why a `package` was installed:
-```bash
-$ please-why package
-```
-
-To identify when a `pakcage` was published:
-```bash
-$ please-when package
+$ please-install    # reinstalls node_modules from scratch
+$ please-ports      # shows all the ports used by node processes
+$ please-why axios  # tells which dependency is requiring a given package
 ```
 
 > If it was hard to write it should be hard to read
