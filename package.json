@@ -6,7 +6,8 @@
   "bin": {
     "please-install": "./bin/install.sh",
     "please-ports": "./bin/ports.sh",
-    "please-why": "./bin/why.sh"
+    "please-why": "./bin/why.sh",
+    "please-restart": "./bin/restart.sh"
   },
   "repository": {
     "type": "git",
